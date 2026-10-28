@@ -1,0 +1,19 @@
+{
+  "tournamentId": "club-night",
+  "title": "Club night mini league",
+  "scoreUnit": "points",
+  "players": [
+    {
+      "id": "amber",
+      "label": "Amber"
+    },
+    {
+      "id": "birch",
+      "label": "Birch"
+    },
+    {
+      "id": "cedar",
+      "label": "Cedar"
+    }
+  ]
+}
